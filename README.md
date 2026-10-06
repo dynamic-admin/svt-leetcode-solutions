@@ -27,7 +27,18 @@ $\color{#60a5fa}{\textbf{세븐틴 화이팅！}}$
 | ---- | ---- |
 | [0001-two-sum](./0001-two-sum/0001-two-sum.cpp) | Easy |
 
-### Hash Table
+#
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
 | Problem Name | Difficulty |
-| ---- | ---- |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/dynamic-admin/svt-leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0001-two-sum](./0001-two-sum/0001-two-sum.cpp) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/dynamic-admin/svt-leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0001-two-sum](./0001-two-sum/0001-two-sum.cpp) | Easy |
+<!---LeetCode Topics End-->
